@@ -1,0 +1,18 @@
+body {
+  height: 1500px;
+}
+
+#nav1 {
+  position: fixed;
+  width: 100%;
+}
+
+#nav2 {
+  position: relative;
+  top: 150px;
+}
+
+#nav3 {
+  position: absolute;
+  bottom: 150px;
+}
