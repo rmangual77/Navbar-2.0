@@ -3,16 +3,23 @@ body {
 }
 
 #nav1 {
+  background-color: black;
+  list-style: none;
   position: fixed;
-  width: 100%;
+  width: 20%;
 }
 
 #nav2 {
+  background-color: red;
   position: relative;
   top: 150px;
+  width: 10;
+  list-style: none;
 }
 
 #nav3 {
+  background-color: orange;
   position: absolute;
   bottom: 150px;
+  list-style: none;
 }
